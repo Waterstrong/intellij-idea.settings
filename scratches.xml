@@ -1,0 +1,19 @@
+<application>
+  <component name="ScratchFileService">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="JAVA" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="Groovy" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10" value="JAVA" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11" value="JAVA" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12" value="Bash" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="Groovy" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3" value="JAVA" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4" value="JAVA" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5" value="JAVA" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6" value="Properties" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7" value="JAVA" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8" value="EJS" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9" value="JAVA" />
+  </component>
+</application>
