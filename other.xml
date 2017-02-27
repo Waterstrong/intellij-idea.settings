@@ -105,8 +105,8 @@
   </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/bin/node" version="5.1.0" last-modified="1447793347000" />
-    <node-interpreter path="/usr/local/Cellar/node/0.12.5/bin/node" version="0.12.5" last-modified="1435072917000" />
     <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.10.1/bin/node" version="5.10.1" last-modified="1459892861000" />
+    <node-interpreter path="/usr/local/Cellar/node/7.5.0/bin/node" version="7.5.0" last-modified="1487436146000" />
     <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.9.0/bin/node" version="5.9.0" last-modified="1458159301000" />
     <node-interpreter path="/usr/local/Cellar/node/5.10.1/bin/node" version="5.10.1" last-modified="1459893162000" />
     <node-interpreter path="$USER_HOME$/.nvm/versions/node/v4.4.1/bin/node" version="4.4.1" last-modified="1458674807000" />
