@@ -1,0 +1,9 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="BaseOnThisFunction" />
+  <action id="DashLauncherAction">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchy.BaseOnThisType" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+</keymap>
