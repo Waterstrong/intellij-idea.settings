@@ -4,7 +4,6 @@
       <blacklist language="Groovy" />
       <blacklist language="Java">
         <added pattern="org.junit.Assert.assertTrue(message,condition)" />
-        <added pattern="win.bigwhale.trains.RouteCalculateFactory.createDirectRouteDistanceCalculate(stationGraph,stations)" />
       </blacklist>
     </blacklists>
   </component>
