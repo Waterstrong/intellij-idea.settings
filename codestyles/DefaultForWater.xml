@@ -1,4 +1,4 @@
-<code_scheme name="Default (1)">
+<code_scheme name="DefaultForWater">
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="500" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="300" />
   <option name="IMPORT_LAYOUT_TABLE">
@@ -16,9 +16,6 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="135" />
-  <MultiMarkdownCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
-  </MultiMarkdownCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>

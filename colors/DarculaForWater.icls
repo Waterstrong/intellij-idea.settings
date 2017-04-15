@@ -4,7 +4,7 @@
     <property name="created">2017-03-11T12:03:06</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-03-11T13:48:24</property>
+    <property name="modified">2017-04-15T14:31:46</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.05" />
@@ -27,6 +27,9 @@
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JAVA_BRACKETS">
+      <value />
+    </option>
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cc7832" />
