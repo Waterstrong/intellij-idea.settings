@@ -5,6 +5,7 @@
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="test1" type="PLAIN_TEXT" />
