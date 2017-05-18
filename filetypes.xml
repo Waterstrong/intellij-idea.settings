@@ -9,7 +9,9 @@
       <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="test1" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="btm" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
