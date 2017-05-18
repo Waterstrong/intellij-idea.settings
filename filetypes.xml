@@ -3,15 +3,14 @@
     <extensionMap>
       <mapping ext="wxml" type="HTML" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="test1" type="PLAIN_TEXT" />
       <mapping ext="btm" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
