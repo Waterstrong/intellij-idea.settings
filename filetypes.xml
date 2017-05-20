@@ -7,6 +7,7 @@
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
+      <mapping pattern=".tinify.cache" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="test1" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
