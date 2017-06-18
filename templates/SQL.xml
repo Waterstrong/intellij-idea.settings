@@ -1,0 +1,8 @@
+<templateSet group="SQL">
+  <template name="slf" value="select * from $table$$END$;" description="select all rows from a table" toReformat="false" toShortenFQNames="true">
+    <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+</templateSet>
