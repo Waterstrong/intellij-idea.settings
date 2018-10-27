@@ -1,7 +1,6 @@
 <application>
-  <component name="GithubAccounts">
-    <account id="e1ee9c62-8027-4748-b6d4-741531bac0fb" name="sqlin@thoughtworks.com">
-      <server host="github.com" />
-    </account>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="sqlin@thoughtworks.com" />
+    <option name="AUTH_TYPE" value="BASIC" />
   </component>
 </application>
