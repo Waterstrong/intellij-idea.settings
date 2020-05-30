@@ -1,10 +1,19 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="Groovy" />
       <blacklist language="Java">
         <added pattern="org.junit.Assert.assertTrue(message,condition)" />
       </blacklist>
+      <blacklist language="Groovy" />
     </blacklists>
+    <disabledLanguages>
+      <language id="JAVA" />
+      <language id="TypeScript" />
+      <language id="Angular2Html" />
+      <language id="JavaScript" />
+      <language id="kotlin" />
+      <language id="Groovy" />
+      <language id="SQL" />
+    </disabledLanguages>
   </component>
 </application>
